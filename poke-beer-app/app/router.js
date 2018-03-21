@@ -7,6 +7,8 @@ const Router = EmberRouter.extend({
 });
 
 Router.map(function() {
+  this.route('poke');
+  this.route('contact');
 });
 
 export default Router;
