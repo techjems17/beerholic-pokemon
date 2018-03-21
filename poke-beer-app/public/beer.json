@@ -1,0 +1,141 @@
+[{
+    "id": 0,
+    "image": "http://i.imgur.com/lgoDgof.png",
+    "title": "Melania’s Gold",
+    "description": "Gently sweet, full bodied and with mellow fruity esters, Melania’s Gold had a smooth, easy-drinking quality.",
+    "location": "Bull & Bush Brewpub"
+  },
+  {
+    "id": 1,
+    "image": "https://vignette.wikia.nocookie.net/pokemon/images/3/3d/002Ivysaur_AG_anime_2.png/revision/latest?cb=20150330014312",
+    "title": "Brut La Grande",
+    "description": "Subtly nuanced with wisps of fruit and spice — as well as a touch of sweetness — Brut La Grande is indeed 'similar' to a Champagne.",
+    "location": "Bruz Beers"
+  },
+  {
+    "id": 2,
+    "image": "https://img.pokemondb.net/artwork/venusaur-mega.jpg",
+    "title": "Weirding Way",
+    "description": "A saison fermented with twelve different strains of Brettanomyces and dry-hopped with Citra hops, it boasted a gorgeous hazy appearance and heady aromas of citrus and funk.",
+    "location": "Our Mutual Friend Brewing"
+  },
+  {
+    "id": 3,
+    "image": "https://pm1.narvii.com/5720/334a9015d7e703982872f956d39578bda4b83d8b_hq.jpg",
+    "title": "Slow Death",
+    "description": "A dark sour beer aged in whiskey barrels with lemon peel and cinnamon.",
+    "location": "TRVE Brewing"
+  },
+  {
+    "id": 4,
+    "image": "http://static.pokemonpets.com/images/monsters-images-300-300/5-Charmeleon.png",
+    "title": "Roswell",
+    "description": "A lambic-style sour beer that was spontaneously fermented and barrel-aged over the course of about nine months; it was then re-fermented in five batches with five different kinds of fruit: apricot, blackberry, cranberry, guava and raspberry.",
+    "location": "Black Project Wild & Spontaneous Ales"
+  },
+  {
+    "id": 5,
+    "image": "https://nerdramblesblog.files.wordpress.com/2016/06/k01wm.gif?w=254&h=300",
+    "title": "Safe Word",
+    "description": "Creamy, comforting and with a full, rich taste smacking of vanilla, coconut, coffee and even some hickory or licorice.",
+    "location": "Cerebral Brewing"
+  },
+  {
+    "id": 6,
+    "image": "https://vignette.wikia.nocookie.net/pokemontowerdefensethree/images/f/f3/Squirtle.jpg/revision/latest?cb=20160806214440",
+    "title": "Cookies & Cream Achromatic",
+    "description": "An obnoxiously decadent variant of Weldwerks' stellar Achromatic imperial stout series of pastry beers, Cookies & Cream was brewed with lactose, cocoa nibs, vanilla beans and, of course, Oreo cookies.",
+    "location": "Weldwerks Brewing"
+  },
+  {
+    "id": 7,
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png",
+    "title": "Barrel Aged Mountain Standard",
+    "description": "Barrel Aged Mountain Standard is a 10.6 percent ABV version of Odell’s intensely hoppy Mountain Standard double-black IPA that was aged for more than a year in bourbon barrels.",
+    "location": "Odell Brewing"
+  },
+  {
+    "id": 8,
+    "image": "https://vignette.wikia.nocookie.net/pokemon/images/6/6b/009Blastoise_AG_anime_2.png/revision/latest?cb=20150102231515",
+    "title": "Rum Single Cask Mr. Sandman",
+    "description": "Aged in a single rum cask, it tastes like a biscuit that had been dipped in rum and covered in chocolate.",
+    "location": "River North Brewery"
+  },
+  {
+    "id": 9,
+    "image": "https://vignette2.wikia.nocookie.net/pokemon/images/9/91/010Caterpie_Pokemon_Mystery_Dungeon_Red_and_Blue_Rescue_Teams.png/revision/latest?cb=20150105231320",
+    "title": "Nuttiest Professor",
+    "description": "Sweet, like many barrel-aged behemoths, the peanut smooths it out and mellow it down.",
+    "location": "Avery Brewing"
+  },
+  {
+    "id": 10,
+    "image": "https://pre00.deviantart.net/6e0c/th/pre/f/2015/083/3/9/011_metapod_by_rayo123000-d8mxy25.png",
+    "title": "Barrel Aged Ryeciprocal",
+    "description": "Chewy, full and with a satiny mouthfeel.",
+    "location": "4 Noses Brewing"
+  },
+  {
+    "id": 11,
+    "image": "http://pokedexradio.com/wp-content/uploads/2014/03/12-Butterfree-e1393716253148.png",
+    "title": "Here Be Monsters",
+    "description": "Dripping with chocolate cake, vanilla, toffee and fudge, it's creamy and warming from start to finish.",
+    "location": "Cerebral Brewing"
+  },
+  {
+    "id": 12,
+    "image": "https://vignette.wikia.nocookie.net/pokemon/images/6/64/013Weedle_Dream.png/revision/latest?cb=20140911044734",
+    "title": "Medianoche",
+    "description": "Striking the perfect balance between a roasty richness and smooth sweetness, it shows off a mature, robust flavor that will make you skip dessert.",
+    "location": "Weldwerks Brewing"
+  },
+  {
+    "id": 13,
+    "image": "http://static.pokemonpets.com/images/monsters-images-800-800/14-Kakuna.png",
+    "title": "Strawberry Saison",
+    "description": "Smooth, crisp and with just enough sweetness from the strawberries to balance the saison yeast.",
+    "location": "Gold Spot Brewing"
+  },
+  {
+    "id": 14,
+    "image": "https://vignette.wikia.nocookie.net/fantendo/images/6/61/015Beedrill.png/revision/latest?cb=20141019151706",
+    "title": "Hickory Peach Wee Heavy",
+    "description": "For starters, you have to like hickory. If you do, then you’ll enjoy its strong flavor, rounded out by a healthy dose of roasted and smoked peaches. 'Partially caramelized by hot stones, this beer is a fruit tree in liquid form,' the brewery says.",
+    "location": "Intrepid Sojourner Beer Project"
+  },
+  {
+    "id": 15,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKpNKapjAJzPI0-B8VcHj89QzAfH2jBcxE8xc8OoMMVHMdSI3W",
+    "title": "Four Grains in the Membrane",
+    "description": "Barley, rye, wheat and corn — and then aged it in three Laws bourbon barrels.",
+    "location": "Baere Brewing"
+  },
+  {
+    "id": 16,
+    "image": "https://s-media-cache-ak0.pinimg.com/originals/40/50/d9/4050d9aa76e31e242e1dfd237ffd700c.png",
+    "title": "Jimmy Buffett Problem",
+    "description": "IPA that was aged in both rum and bourbon barrels with pineapple purée and shaved coconut. Light, mellow and subtle but also rich and complex, the beer manages to do a masterful job combining all of these things so that no one flavor or characteristic overtakes the other.",
+    "location": "Jessup Farm Barrel House"
+  },
+  {
+    "id": 17,
+    "image": "https://vignette.wikia.nocookie.net/sonicpokemon/images/5/51/Pidgeot_AG_anime.png/revision/latest?cb=20130708224351",
+    "title": "Oaked Weissenbock",
+    "description": "A rich, malty tongue-coater that offered clear notes of banana from the yeast and oak from the first-use barrels, along with some toffee and bubble-gum flavors that rounded it all out.",
+    "location": "Upslope Brewing/Resolute Brewing"
+  },
+  {
+    "id": 18,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA2kfQht4yt2V1dNo_HmzbpLuHFWHuW1FWfmM1wcoNY9c1Qh-T",
+    "title": "Baltic Porter",
+    "description": "Light, crispy cracker with ever-so-delicate inflections of chocolate, roastiness and California dates.",
+    "location": "Bierstadt Lagerhaus"
+  },
+  {
+    "id": 19,
+    "image": "https://pbs.twimg.com/media/CvsmjpwVYAEFahT.png",
+    "title": "Lichtenhainer",
+    "description": "A sour funk as well as a crispness that was salty, light and complex.",
+    "location": "Seedstock Brewing/Halfpenny Brewing"
+  }
+]
