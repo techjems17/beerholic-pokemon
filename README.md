@@ -1,6 +1,8 @@
 # Beerholic-pokemon
 Have you ever wondered what your beloved pokemon's favorite beer is? Well if you have this is the app for you! Find out the name of the beer, what it tastes like, and where to find it.
 
+[Visit App](https://beerholic-pokemon.herokuapp.com/)
+
 ![screenshot](https://github.com/techjems17/beerholic-pokemon/blob/master/Screen%20Shot%202018-03-21%20at%203.54.31%20PM.png?raw=true)
 
 ## Technologies
