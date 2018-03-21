@@ -28,3 +28,17 @@ header {
   color: blue;
 }
 
+.contact {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.contact ul {
+    margin-top: 200px;
+}
+
+li {
+    list-style: none;
+    margin-top: 5px;
+}
