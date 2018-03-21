@@ -1,5 +1,8 @@
+header {
+    margin-bottom: 50px;
+}
+
 .poke-profiles {
-    margin-top: 50px;
     height: 15vh;
     text-align: center;
 }
@@ -7,3 +10,21 @@
 .btn a {
     color: white;
 }
+
+#beerChoice {
+  margin-top: 20px;
+  display: flex;
+  font-family: 'Russo One';
+}
+
+.poke {
+  margin-left: 50px;
+  margin-right: 20px;
+  height: 600px;
+  width: 50%;
+}
+
+#beerChoice h4 {
+  color: blue;
+}
+

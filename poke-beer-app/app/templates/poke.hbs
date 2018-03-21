@@ -9,9 +9,9 @@
         {{#each currentPoke as |beer|}}
             <img class="poke" src="{{beer.image}}">
             <div class="details">
-                <h2>Name: {{beer.title}}</h2>
-                <p>Flavor: {{beer.description}}</p>
-                <h4>Visit: {{beer.location}}</h4>
+                <h2>{{beer.title}}</h2>
+                <h4>{{beer.description}}</h4>
+                <h3>Visit: {{beer.location}}</h3>
             </div>
         {{/each}}
     {{/if}}
