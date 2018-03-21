@@ -1,1 +1,19 @@
+<select onchange={{action "updateCurrentPoke" value="target.value" }}>
+    <option selected> -- choose a pokemon -- </option>
+    {{#each model.pokemon.results as |poke index|}}
+    <option value="{{index}}">{{poke.name}}</option>
+    {{/each}}
+</select>
+<div id="beerChoice">
+    {{#if currentPoke}} 
+        {{#each currentPoke as |beer|}}
+            <img class="poke" src="{{beer.image}}">
+            <div class="details">
+                <h2>Name: {{beer.title}}</h2>
+                <p>Flavor: {{beer.description}}</p>
+                <h4>Visit: {{beer.location}}</h4>
+            </div>
+        {{/each}}
+    {{/if}}
+</div>
 {{outlet}}
