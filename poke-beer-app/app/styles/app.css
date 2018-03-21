@@ -5,6 +5,7 @@ header {
 .poke-profiles {
   height: 15vh;
   text-align: center;
+  margin-bottom: 25px;
 }
 
 .btn a {
